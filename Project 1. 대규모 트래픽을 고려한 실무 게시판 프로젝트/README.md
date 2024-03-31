@@ -51,6 +51,7 @@
 ---
 # ERD(Entity Relationship Diagram)
 ![image](https://github.com/ccommit-dev/Board-Server/assets/77635521/7fb0ec6b-1317-4911-9315-067244a8dd9e)
+ERD 툴 : https://sqldbm.com/Home/
 
 ---
 # 시퀀스
@@ -59,6 +60,8 @@
 
 - 게시글 검색 시퀀스
 ![게시글 검색 시퀀스](https://github.com/ccommit-dev/Board-Server/assets/77635521/c5f228fd-ca8f-4144-a407-30e2647f9159)
+
+시퀀스 툴 : https://www.websequencediagrams.com/
 
 ---
 # 아키텍처(요약)
